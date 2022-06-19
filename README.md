@@ -5,7 +5,7 @@ git Init repository
 ```bash
 
 # clone the repo
-$ git clone -b master https://github.com/Gabe-Siqueira/library-system-frontend.git
+$ git clone -b master https://github.com/Gabe-Siqueira/library-system-frontend.git library-system-frontend
 
 # go into app's directory
 $ cd library-system-frontend
